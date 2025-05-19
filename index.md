@@ -22,4 +22,4 @@ I analyze NGS, wet-lab, environmental, and clinical datasets using statistics, m
 🌱 **Beyond Data**  
 I love literature 📚, crossfit 🏋️‍♀️ and yoga 🧘‍♀️. You’ll often find me exploring my city or nearby nature on long walks 🌿. 
 
-📄 **Download my CV**: [PDF](/assets/files/Clara_analyst.pdf)  
+📄 **Download my CV**: [PDF](/assets/docs/Clara_analyst.pdf)  
