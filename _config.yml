@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Clara Fernández Trujillo"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Data Analysis & Visualization | Life Sciencies | Bioinformatics"
+  bio    : "Data Analysis & Visualization, Life Sciencies, Bioinformatics"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
