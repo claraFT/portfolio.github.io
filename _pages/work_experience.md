@@ -1,5 +1,5 @@
 ---
-permalink: /work-experience/
+permalink: /work_experience/
 title: "Work Experience"
 ---
 
